@@ -1,4 +1,4 @@
-## MYSQL ALL THE TABLE SCHEMA 
+## MYSQL TABLE SCHEMA 
 
 create table tbl_login ( 
 l_id int NOT NULL AUTO_INCREMENT,
